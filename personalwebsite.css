@@ -1,0 +1,23 @@
+img {
+    height: 100px;
+    width: 100px;
+}
+#logo{
+    float: right;   
+}
+table, th, td{
+    
+    padding:3px;
+
+}
+body {
+    background-color: #FFE4C0;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    
+    width: 5% ;
+    border-top-color: black;
+    height: 5px;
+}
